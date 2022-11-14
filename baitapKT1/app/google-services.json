@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190341930861",
+    "project_id": "baitapkt1",
+    "storage_bucket": "baitapkt1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190341930861:android:991377d84bf1296d2a8464",
+        "android_client_info": {
+          "package_name": "com.example.baitapkt1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190341930861-e046s7pihujreqbvimia08hrt249npjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwL-EVqMMA_wppcXQDCaehRkVKyPyPp-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190341930861-e046s7pihujreqbvimia08hrt249npjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
