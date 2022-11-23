@@ -1,33 +1,42 @@
 {
   "project_info": {
-    "project_number": "190341930861",
-    "project_id": "baitapkt1",
-    "storage_bucket": "baitapkt1.appspot.com"
+    "project_number": "58481905916",
+    "firebase_url": "https://listfireb-default-rtdb.firebaseio.com",
+    "project_id": "listfireb",
+    "storage_bucket": "listfireb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:190341930861:android:991377d84bf1296d2a8464",
+        "mobilesdk_app_id": "1:58481905916:android:a0ccecb3c741a668328779",
         "android_client_info": {
           "package_name": "com.example.baitapkt1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "190341930861-e046s7pihujreqbvimia08hrt249npjv.apps.googleusercontent.com",
+          "client_id": "58481905916-ogcbbooh8d57k7jbib3omn3r9fdo265p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baitapkt1",
+            "certificate_hash": "1ea912ce1fb901f575cf18c199963d53bb59a301"
+          }
+        },
+        {
+          "client_id": "58481905916-f6so35ecq7vlkh70mse09pcf4o5iv4d2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDwL-EVqMMA_wppcXQDCaehRkVKyPyPp-c"
+          "current_key": "AIzaSyAtuGl7aRv1NyPsyBknzylRK7XPxmWUjUQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "190341930861-e046s7pihujreqbvimia08hrt249npjv.apps.googleusercontent.com",
+              "client_id": "58481905916-f6so35ecq7vlkh70mse09pcf4o5iv4d2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
